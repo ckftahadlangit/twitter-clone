@@ -13,5 +13,8 @@
 --
 -- Write your query below:
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> master
 SELECT * FROM users WHERE email = '{{email}}';

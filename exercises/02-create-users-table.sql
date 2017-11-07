@@ -14,4 +14,8 @@ CREATE TABLE IF NOT EXISTS users (
 	email  VARCHAR PRIMARY KEY,
 	password VARCHAR NOT NULL,
 	created_at TIMESTAMP DEFAULT now()
+<<<<<<< HEAD
 );
+=======
+);
+>>>>>>> master
